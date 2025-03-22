@@ -1,0 +1,17 @@
+.mom{
+    width: 50px;
+}
+.ola{
+    background-color: rgb(241, 148, 7);
+}
+.abouta{
+    text-align: center;
+}
+.aboutf{
+    display:flex;
+}
+.ourproduct{
+    text-align: center;
+    margin-bottom: 20PX;
+    margin-top: 20px;
+}
